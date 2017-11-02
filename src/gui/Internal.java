@@ -1,4 +1,4 @@
-package ejemplo.practica7;
+package gui;
 
 import javax.swing.JTextField;
 

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplo.practica7;
+package gui;
 
 import javax.swing.JDesktopPane;
 import javax.swing.JInternalFrame;
